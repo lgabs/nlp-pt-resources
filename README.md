@@ -6,7 +6,7 @@ A tag `pt` identifica materiais em português.
 # Embeddings
 
 - [Repositório de Word Embeddings do NILC](http://www.nilc.icmc.usp.br/embeddings)
-- [word2vec ilustrado](https://pessoalex.wordpress.com/2019/03/29/o-word2vec-ilustrado/) (pt)
+- [word2vec ilustrado](https://pessoalex.wordpress.com/2019/03/29/o-word2vec-ilustrado/) `pt`
 
 
 
